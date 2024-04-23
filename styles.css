@@ -1,0 +1,27 @@
+article {
+    background-color:rgba(126, 186, 201, 0.801);
+    padding: 50px;
+    border-style:outset;
+    margin-bottom: 10px;
+    font-weight: 100;
+    font-style: normal;
+}
+
+h1 {
+    text-align: center;
+}
+
+#para1 {
+    color:rgb(219, 26, 0);
+    font-family: Arial, san-serif;
+}
+
+.main {
+    background-color:#a5b4af;
+    color:rgba(3, 68, 71, 0.993);
+    font-family:'Times New Roman', 'Times', 'serif';
+    text-align: center;
+    padding: 50px;
+    border-style:outset;
+    margin-bottom: 10px;
+}
